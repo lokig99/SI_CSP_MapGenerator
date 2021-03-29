@@ -1,7 +1,7 @@
 ## Map Coloring Problem - Map Picture Generator for visualizing CSP solutions (AI Lab)
 
 <div align="center">
-  <img src="https://github.com/m-LoKi-g/SI_CSP_MapGenerator/blob/master/map.png?raw=true">
+  <img src="https://github.com/m-LoKi-g/SI_CSP_MapGenerator/blob/master/map.png?raw=true" width=400px>
 </div>
 
 ### Dependencies
